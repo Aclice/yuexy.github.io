@@ -17,4 +17,4 @@ category: opinion
 
 ---
 
-[panda](http://g.hiphotos.baidu.com/image/pic/item/8ad4b31c8701a18b91f0dc4d9d2f07082838fe9d.jpg)
+![panda](http://g.hiphotos.baidu.com/image/pic/item/8ad4b31c8701a18b91f0dc4d9d2f07082838fe9d.jpg)
